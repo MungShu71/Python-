@@ -1,6 +1,3 @@
-# Python-
-Python Codes; mostly data extraction from files and manipulating them
-
 Dog Search:
 Python code reads in a CSV and JSON file, searches, and returns a refined list of dogs that fit the input criteria.
 
