@@ -102,5 +102,5 @@ async def timezones(message):
 
 
 
-client.run('MTAwNjIzNjY5MTYzNzQ2OTIxNQ.G_F87m.DXwfAFxIKeJbuQUBQWPm29Gy-oZDlab1gDmNmc')
+client.run(TOKEN)
 
